@@ -1,16 +1,26 @@
-### Hi there 👋
+![web developer](https://www.linkedin.com/in/md-akash-khan-a70698163/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9vytESKvS8mObOyHap2ijA%3D%3D)
+
+### Hi there 👋, I am Akash
+#### web developer
+
+ I started working with computers but I found myself into web design/development since 2013. I enjoy creating  intuitive and functional websites.
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🌱 I’m currently learning programming  
+- 💬 Ask me about web developer 
 
 
-**akaash24/akaash24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akaash24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/md-akash-khan-a70698163//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/akaash24)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/k_akaash42/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/akaash_52)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaash24)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=akaash24&show_icons=true)  
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=akaash24)  
+
+![GitHub metrics](https://metrics.lecoq.io/akaash24)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=akaash24)  
+
+![Profile views](https://gpvc.arturio.dev/akaash24)  
