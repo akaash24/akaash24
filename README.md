@@ -1,4 +1,4 @@
-![web developer](https://www.linkedin.com/in/md-akash-khan-a70698163/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B9vytESKvS8mObOyHap2ijA%3D%3D)
+![web developer] (https://twitter.com/akaash_52)
 
 ### Hi there 👋, I am Akash
 #### web developer
