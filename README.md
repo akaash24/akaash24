@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaash24&label=Profile%20views&color=0e75b6&style=flat" alt="akaash24" /> </p>
 
-- 💬 Ask me about **web development banner**
+- 💬 Ask me about **web development**
 
 - 📫 How to reach me **kakaash52@gmail.com**
 
