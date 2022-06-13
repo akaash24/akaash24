@@ -1,5 +1,5 @@
 ![web developer](https://scontent.fcgp17-1.fna.fbcdn.net/v/t1.6435-9/75627416_201119050917299_3622627072465174528_n.jpg?stp=dst-jpg_s960x960&_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeEcejh8azeSrM3QQ3oFDi7CDSsPePpeFjYNKw94-l4WNhiXtyzWJwbZH1d4xpOVSTEY0Y62Ac1g-v72p_awXDV8&_nc_ohc=ve0m50qMewUAX-KIldx&_nc_ht=scontent.fcgp17-1.fna&oh=00_AT9Pb4M9HV1LOnC4dIzmZotAb4aWjNMzrZ2cwpRDb3W52Q&oe=62C5A116)
-<h1 align="center">Hi 👋, I'm Akash</h1>
+<h1 align="center">Hi , I'm Akash</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akaash24&label=Profile%20views&color=0e75b6&style=flat" alt="akaash24" /> </p>
